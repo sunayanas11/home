@@ -175,7 +175,7 @@ If you found this project valuable, please consider giving it a ⭐️ on GitHub
 
 <div>
   <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
- </div>
+</div>
 
 # Showcase 🚀
 
